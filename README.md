@@ -21,4 +21,4 @@ The year should update automatically.
 
 ![auto year](readmeimages/copyright.png)
 
-[Edit here](https://Iceman0001/~/gh/Iceman0001/UX220PracticeTest2)
+[Edit here](https://diy-pwa.dev/~/gh/Iceman0001/UX220PracticeTest2)
